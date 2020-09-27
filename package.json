@@ -1,4 +1,7 @@
 {
+  "author": {"name": "Jon Barson"},
+  "license": "MIT",
+  "description": "A list of handy logging snippets for educators",
     "categories": [
         "Snippets"
   ],
