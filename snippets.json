@@ -1,0 +1,28 @@
+{
+	"Mind Blown logger": {
+		"prefix": "edmb",
+		"body": "console.log('%c!!!🤯!!!', 'font-size: 60px')",
+		"description": "Log Mind Blown!"
+  },
+  "New Section Title logger": {
+		"prefix": "edti",
+		"body": "console.log('%c-=-=-=-=-=-=-=$1=-=-=-=-=-=-=-', 'font-size: 30px')",
+		"description": "Log New Section"
+  },
+  "Warning logger": {
+		"prefix": "edw",
+		"body": "console.log('%c ⚠ %c Be Careful: $1', 'font-size: 30px; color:yellow; background: gray', 'font-weight: bold')",
+		"description": "Log warning"
+  },
+  "Never Do logger": {
+		"prefix": "ednv",
+		"body": "console.log('%c ☠️ %c Never do this: $1', 'font-size: 30px; color:red; background: yellow', 'font-weight: bold')",
+		"description": "Log Never Do"
+  },
+  "Table Flip logger": {
+		"prefix": "edtf",
+		"body": "console.log('%c(╯°□°）╯︵ ┻━┻', 'font-size: 30px; font-weight: bold;')",
+		"description": "Log Table Flip"
+  }
+}
+
